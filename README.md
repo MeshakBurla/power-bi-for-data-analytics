@@ -1,5 +1,4 @@
 # power-bi-for-data-analytics
 Power BI is a versatile data visualization and analytics tool designed for data analysts to connect, transform, and model data from diverse sources. With its user-friendly drag-and-drop interface and extensive library of interactive visualizations, analysts can create insightful reports and dashboards. 
-Projective objectives:
-Power BI is a versatile data visualization and analytics tool designed for data analysts to connect, transform, and model data from diverse sources. With its user-friendly drag-and-drop interface and extensive library of interactive visualizations, analysts can create insightful reports and dashboards. It supports advanced data modeling using DAX, real-time data integration, and built-in AI features like forecasting and natural language processing. Power BI facilitates seamless collaboration through cloud-based sharing and integration with Microsoft tools like Excel and Teams. Scalable for personal or enterprise use, it is a cost-effective solution for making data-driven decisions.
-
+##Projective objectives:
+To create interactive Power BI dashboards that provide real-time insights and streamline data visualization for informed decision-making. The project aims to integrate multiple data sources, enabling efficient analysis and improved business performance.
