@@ -1,1 +1,1 @@
-#Power bi for data analytics
+power bi for data analytics
