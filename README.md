@@ -15,7 +15,8 @@
 Q1. **i am meshak burla**:
 
 '''sql
-SELECT * FROM MESHAKBURLA;
+SELECT * 
+FROM MESHAKBURLA;
 '''
 
 
