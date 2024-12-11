@@ -13,10 +13,10 @@
 <a href="https://github.com/MeshakBurla/power-bi-for-data-analytics/commit/b262e76d7cfea907162bf1b90600850dd684fd71">dashboard view</a>
 
 Q1. **i am meshak burla**:
-
 '''sql
 SELECT * 
-FROM MESHAKBURLA;
+FROM MESHAKBURLA
+WHERE SALES_DATA = '2022-12-11';
 '''
 
 
