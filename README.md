@@ -15,9 +15,11 @@
 Q1. **i am meshak burla**:
 
 '''sql
+
 SELECT
 DISTINCT PLAYER,
 TOTAL_RUNS FROM FIRST_MATCH1 ORDER BY TOTAL_RUNS DESC;
+
 '''
 
 
