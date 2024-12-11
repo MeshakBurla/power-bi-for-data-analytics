@@ -14,13 +14,8 @@
 
 Q1. **i am meshak burla**:
 
-'''SQL
-create database project_p1:
-create table table1(
-id int,
-name nvarchar(80),
-age int
-);
+'''sql
+SELECT * FROM MESHAKBURLA;
 '''
 
 
