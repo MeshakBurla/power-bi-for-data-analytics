@@ -14,10 +14,10 @@
 
 Q1. **i am meshak burla**:
 
-'''sql
+"""sql
 SELECT * 
 FROM MESHAKBURLA
 WHERE SALES_DATA = '2022-12-11';
-'''
+"""
 
 
