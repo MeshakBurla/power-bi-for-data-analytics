@@ -11,8 +11,9 @@
 ### DASHBOARD
 
 <a href="https://github.com/MeshakBurla/power-bi-for-data-analytics/commit/b262e76d7cfea907162bf1b90600850dd684fd71">dashboard view</a>
-...SQL
 
+Q1. **i am meshak burla**:
+...SQL
 create database project_p1:
 create table table1(
 id int,
