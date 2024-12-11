@@ -20,6 +20,6 @@ name nvarchar(80),
 age int
 );
 
-...SQL
+...
 
 
