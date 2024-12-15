@@ -12,12 +12,7 @@
 
 <a href="https://github.com/MeshakBurla/power-bi-for-data-analytics/commit/b262e76d7cfea907162bf1b90600850dd684fd71">dashboard view</a>
 
-Q1. **i am meshak burla**:
 
-```sql
-SELECT
-DISTINCT PLAYER,
-TOTAL_RUNS FROM FIRST_MATCH1 ORDER BY TOTAL_RUNS DESC;
-```
+
 
 
