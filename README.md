@@ -10,9 +10,9 @@
 
 ### DASHBOARD
 
-<a href="https://github.com/MeshakBurla/power-bi-for-data-analytics/commit/b262e76d7cfea907162bf1b90600850dd684fd71">dashboard view</a>
+<a href="https://github.com/user-attachments/assets/71420941-40f7-488f-af81-d2161d52c898">dashboard view</a>
 
-
+link:https://github.com/MeshakBurla/power-bi-for-data-analytics/commit/b262e76d7cfea907162bf1b90600850dd684fd71
 
 
 
