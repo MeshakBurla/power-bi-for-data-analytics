@@ -8,6 +8,8 @@
 
 <a href="https://github.com/user-attachments/assets/71420941-40f7-488f-af81-d2161d52c898">dataset</a>
 
+![Screenshot 2024-12-22 183531](https://github.com/user-attachments/assets/e5fdbc95-60c0-436f-9df5-a18abc3b2e0c)
+
 ### DASHBOARD
 
 <a href="https://github.com/user-attachments/assets/71420941-40f7-488f-af81-d2161d52c898">dashboard view</a>
