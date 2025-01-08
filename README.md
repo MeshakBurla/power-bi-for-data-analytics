@@ -16,5 +16,9 @@
 
 link:https://github.com/MeshakBurla/power-bi-for-data-analytics/commit/b262e76d7cfea907162bf1b90600850dd684fd71
 
+following the DAX expression was avearge of delivery,
+
+      AvgDelivery = DATEDIFF(SuperStore_Sales'[Order Date], 'SuperStore_Sales'[Ship Date],DAY)
+
 
 
