@@ -9,6 +9,9 @@
 <a href="supply chain data dashboard.pbix">dataset</a>
 
 ![Screenshot 2024-12-22 183531](https://github.com/user-attachments/assets/e5fdbc95-60c0-436f-9df5-a18abc3b2e0c)
+## snapshot1:![Image](https://github.com/user-attachments/assets/1857010a-25ac-4d57-8d1c-672e62e2a000)
+
+## snapshot2:![Image](https://github.com/user-attachments/assets/ca307663-0bd3-4eb8-bdff-c8abe876aaa6)
 
 ### DASHBOARD
 
