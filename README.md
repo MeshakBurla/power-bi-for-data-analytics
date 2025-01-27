@@ -14,7 +14,7 @@
 ## snapshot2:![Image](https://github.com/user-attachments/assets/ca307663-0bd3-4eb8-bdff-c8abe876aaa6)
 
 ### DASHBOARD
-<a href=": https://app.powerbi.com/links/uPAnL-8gAk?ctid=51302999-bb18-4fba-98bf-3a7ab3f07f13&pbi_source=linkShare">dashboard view</a>
+<a href=" https://app.powerbi.com/links/uPAnL-8gAk?ctid=51302999-bb18-4fba-98bf-3a7ab3f07f13&pbi_source=linkShare">dashboard view1</a>
 
 <a href="https://github.com/user-attachments/assets/71420941-40f7-488f-af81-d2161d52c898">dashboard view</a>
 
